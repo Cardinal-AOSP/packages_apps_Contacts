@@ -14,13 +14,7 @@
      limitations under the License.
 -->
 <resources>
-
-    <style name="PeopleTheme1" parent="@android:style/Theme.Material.DayNight">
-        <item name="android:colorPrimary">@color/primary_color</item>
-        <item name="android:colorPrimaryDark">@color/primary_color_dark</item>
-        <item name="android:colorAccent">@*android:color/cardinal_accent_neon_green</item>
-    </style>
-
+  
     <style name="ContactEditorAccountsChangedActivityTheme" parent="@android:style/Theme.Material.DayNight.Dialog.NoActionBar.MinWidth">
         <item name="android:windowCloseOnTouchOutside">true</item>
         <item name="android:textColorPrimary">@color/primary_text_color</item>

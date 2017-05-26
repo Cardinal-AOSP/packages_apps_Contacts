@@ -26,19 +26,9 @@
     <color name="contextual_selection_bar_color">@*android:color/cardinal_light_indigo</color>
     <color name="contextual_selection_bar_status_bar_color">@*android:color/cardinal_light_indigo</color>
 
-    <!-- TODO: remove these colors once we delete the group code (b/16522929) -->
-    <color name="action_bar_background">@*android:color/cardinal_light_indigo</color>
-
-    <color name="actionbar_background_color">@*android:color/cardinal_light_indigo</color>
-    <color name="actionbar_background_color_dark">@*android:color/cardinal_light_indigo</color>
-
-    <color name="primary_color_dark">@*android:color/cardinal_dark_indigo</color>
-    <color name="primary_color">@*android:color/cardinal_dark_indigo</color>
-
     <!-- Color of the selected tab underline -->
     <color name="contacts_accent_color">@*android:color/cardinal_accent_neon_green</color>
 
-    <color name="floating_action_button_icon_color">@color/contacts_accent_color</color>
 
     <!-- Horizontal separator line should be 12% dark in the light theme. -->
     <color name="divider_line_color_light">@*android:color/cardinal_dark_indigo</color>
@@ -60,10 +50,6 @@
 
     <!-- Color of the mime-type icons inside the editor. 50% black. -->
     <color name="editor_icon_color">@*android:color/cardinal_accent_neon_green</color>
-
-    <color name="contacts_action_bar_text_color_hint">#FFFFFF</color>
-
-    <color name="contacts_action_bar_text_color">@android:color/white</color>
 
     <color name="section_divider_background_color">@*android:color/cardinal_dark_indigo</color>
 
